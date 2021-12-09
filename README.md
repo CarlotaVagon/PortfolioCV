@@ -1,6 +1,6 @@
 # PortfolioCV
 The creation of my portfolio
-# nick-personal-website (edit/delete this after forking) 
+
 
 www.carmont.io
 
